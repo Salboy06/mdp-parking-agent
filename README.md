@@ -42,7 +42,4 @@ A conceptual extension is provided where the transition model incorporates a **d
 
 ## ▶️ How to Run
 
-Open the notebook in **Google Colab** or **VS Code** with Jupyter:
-
-```bash
-python project3.py
+Open the notebook in **Google Colab** or **VS Code** with Jupyter to run it.
